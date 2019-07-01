@@ -7,9 +7,12 @@ CoolFace 是一家專業的露營用品出租店。
 
 ## 資訊架構 
   [Information Architecture](IA.png)
+  ![image](IA.png)
 
 ## User flow
   [User flow](UserFlow.png)
+  
+  ![image](UserFlow.png)
 
 ## User story
 
@@ -50,14 +53,18 @@ CoolFace 是一家專業的露營用品出租店。
 
 ## Wireframe
   [Wireframe](wireframe.png)
+  ![image](wireframe.png)
 
 ## Style Guide
   [Colors](Colors.png)  
+  ![image](Colors.png) 
   [Typography](Typography-Dark.png)
+  ![image](Typography-Dark.png)
   (please see sketch file for detail spec)
   
 ## Logo
   [Logo](Logo.png)
+  ![image](Logo.png)
   
 ## Prototype
   [Prototype](https://projects.invisionapp.com/share/U5T17318316AQ7#/screens)
