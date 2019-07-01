@@ -5,9 +5,11 @@ CoolFace 是一家專業的露營用品出租店。
 
 此外，為了實作UI/UX設計流程，在這個專案中規劃了資訊架構、User flow、User story、Wireframe、Style Guide、UI Design、Logo Design 及High fidelity 的Prototype。
 
-## 資訊架構 [Information Architecture](IA.png)
+## 資訊架構 
+  [Information Architecture](IA.png)
 
-## [User flow](UserFlow.png)
+## User flow
+  [User flow](UserFlow.png)
 
 ## User story
 
@@ -46,12 +48,17 @@ CoolFace 是一家專業的露營用品出租店。
 
 
 
-## [Wireframe](wireframe.png)
+## Wireframe
+  [Wireframe](wireframe.png)
 
 ## Style Guide
-  [Colors](colors.png)    [Typography](Typography.png)
+  [Colors](Colors.png)  
+  [Typography](Typography-Dark.png)
+  (please see sketch file for detail spec)
   
 ## Logo
-
-## [Prototype](https://projects.invisionapp.com/share/U5T17318316AQ7#/screens)
+  [Logo](Logo.png)
+  
+## Prototype
+  [Prototype](https://projects.invisionapp.com/share/U5T17318316AQ7#/screens)
 
